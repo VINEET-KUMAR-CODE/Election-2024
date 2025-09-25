@@ -25,10 +25,15 @@ To showcase storytelling with data for decision-making and insights.
 🚀 Dashboard Highlights
 
 ✅ State-wise Seat Distribution → Which states favored which parties?
+
 ✅ Party-wise Results → Compare performance of leading and emerging political parties.
+
 ✅ Voting Trends & Patterns → Spot shifts in voter behavior across regions.
+
 ✅ Interactive Filters & Slicers → Customize views for deeper exploration.
+
 ✅ Dynamic Visualizations → Clear, professional, and easy-to-understand visuals.
+
 --------------------------------------------
 🛠️ Tools & Skills Showcased
 
