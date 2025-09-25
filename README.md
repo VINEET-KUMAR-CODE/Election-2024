@@ -2,7 +2,7 @@
 
 ---------------------
 
-please check all screenshot file for complete review
+please check " ss-election.zip "  file for complete review
 
 -----------------------
 
