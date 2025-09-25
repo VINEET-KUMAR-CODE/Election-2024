@@ -95,10 +95,13 @@ The core goals of this project were:
 
 # 📂 Repository Structure
 # 📁 Indian-General-Election-2024-PowerBI
+
  ├── 📊 Dashboard.pbix        → Power BI dashboard file
+ 
  ├── 🖼️ Screenshots/          → Preview images of the dashboard
- ├── 📂 Dataset/              → Raw and cleaned datasets (if shareable)
+ 
  └── 📄 README.md             → Documentation and project summary
+ 
 
   ---------------------------------------
   
