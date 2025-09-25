@@ -1,7 +1,10 @@
 <img width="873" height="514" alt="Dashboard" src="https://github.com/user-attachments/assets/c7552bae-2225-4888-b9d4-a15bb88f460e" />
 ---------------------
+
 please check all screenshot file for complete review
+
 -----------------------
+
 📊 Power BI Dashboard on Indian General Election 2024 – Interactive analysis of state-wise and party-wise results, voting trends &amp; insights.
 📊 Indian General Election 2024 – Power BI Dashboard
 
