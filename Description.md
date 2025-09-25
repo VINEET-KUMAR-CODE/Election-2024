@@ -1,6 +1,4 @@
-# 📝 Detailed Project Summary – Indian General Election 2024 Power BI Dashboard
-
-🌍 Introduction
+## 📝 Detailed Project Summary – Indian General Election 2024 Power BI Dashboard
 
 The Indian General Election 2024 was one of the largest democratic events in the world 🌎, with:
 
@@ -32,7 +30,7 @@ The core goals of this project were:
 
   -------------------------------------
   
-#✨ Key Features of the Dashboard
+# ✨ Key Features of the Dashboard
 
 🗺️ State-wise Seat Distribution → Visualize how each state voted
 
@@ -48,7 +46,7 @@ The core goals of this project were:
 
   --------------------------------
   
-#🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 ⚡ Power BI Desktop – Dashboard design, DAX measures, interactive visuals
 
@@ -66,7 +64,7 @@ The core goals of this project were:
 
   ------------------------------------------------
 
-#This project allowed me to strengthen a wide range of technical and analytical skills, including:
+# This project allowed me to strengthen a wide range of technical and analytical skills, including:
 
 ✅ Power BI Dashboard Design – Building professional, user-friendly reports
 
@@ -94,9 +92,9 @@ The core goals of this project were:
 
   -----------------------------------------------
 
-#
-📂 Repository Structure
-📁 Indian-General-Election-2024-PowerBI
+
+# 📂 Repository Structure
+# 📁 Indian-General-Election-2024-PowerBI
  ├── 📊 Dashboard.pbix        → Power BI dashboard file
  ├── 🖼️ Screenshots/          → Preview images of the dashboard
  ├── 📂 Dataset/              → Raw and cleaned datasets (if shareable)
@@ -104,7 +102,7 @@ The core goals of this project were:
 
   ---------------------------------------
   
-#📚 Key Learnings
+# 📚 Key Learnings
 
 From this project, I not only improved my technical expertise but also learned:
 
@@ -118,7 +116,7 @@ From this project, I not only improved my technical expertise but also learned:
 
   -------------------------------------
   
-#📌 Use Cases
+# 📌 Use Cases
 
 🎓 Students & Learners → Understanding Power BI in a practical scenario
 
@@ -131,7 +129,7 @@ From this project, I not only improved my technical expertise but also learned:
   ----------------------------
   
 
-#🌟 Final Note
+# 🌟 Final Note
 
 This project is not just about charts or visuals.
 It is an effort to tell the story of India’s democracy through the power of data.
@@ -140,7 +138,7 @@ The Indian General Election 2024 Dashboard reflects how data analytics + busines
 
   ------------------------------
   
-#📬 Connect With Me
+# 📬 Connect With Me
 
 💼 LinkedIn    -  www.linkedin.com/in/vineet-kumar-40ba27323
  | ✉️ Email    - vineetkumarji1008@gmail.com
