@@ -13,6 +13,7 @@ India’s General Election 2024 was one of the largest democratic exercises in t
 This project transforms that raw election data into meaningful insights using Power BI. The dashboard is designed to help users explore state-wise outcomes, party performance, and voter trends through clean, interactive, and visually engaging reports.
 
 It’s not just about numbers – it’s about telling the story of democracy through data.
+
 ------------------------------------------
 ✨ Why This Project?
 
@@ -21,6 +22,7 @@ To apply data analytics & visualization skills on a real-world, large-scale data
 To demonstrate the power of BI tools in simplifying complex election results.
 
 To showcase storytelling with data for decision-making and insights.
+
 ---------------------------------------------
 🚀 Dashboard Highlights
 
@@ -35,6 +37,7 @@ To showcase storytelling with data for decision-making and insights.
 ✅ Dynamic Visualizations → Clear, professional, and easy-to-understand visuals.
 
 --------------------------------------------
+
 🛠️ Tools & Skills Showcased
 
 Power BI Desktop → Data modeling, DAX measures, dashboard design
@@ -46,11 +49,17 @@ Data Visualization → Presenting large-scale results with clarity
 Analytical Storytelling → Converting data into actionable insights
 
 📂 Repository Structure
+
 📁 Indian-General-Election-2024-PowerBI
+
  ├── 📊 Dashboard.pbix        → Power BI dashboard file
+ 
  ├── 📈 Screenshots/          → Visual previews of the dashboard
+ 
  ├── 📂 Dataset/              → Raw and cleaned data (if shareable)
+ 
  └── 📄 README.md             → Project documentation
+ 
 
 --------------------------------------------------
 
@@ -65,12 +74,16 @@ Design interactive and drill-down reports
 Tell compelling stories using data visualization techniques
 
 Translate real-world datasets into insightful business reports
+
 ------------------------------------------
 📌 Use Cases
 
 🔹 Students & Learners → Understand real-world Power BI applications
+
 🔹 Recruiters → Evaluate candidate’s BI & storytelling skills
+
 🔹 Professionals → Explore election data in a structured and visual manner
+
 -----------------------------------------
 ⚡ Final Note
 
